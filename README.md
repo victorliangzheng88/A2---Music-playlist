@@ -10,6 +10,8 @@ which makes insertion and deletion much easier.
 
 I also use Stack to create a song history list because stack is LIFO (Last in First Out) and that is exactly how I wanted my song history list to look like as it was print out in the console.
 
+The datas were merged together into one list and they are all sorted based on the track names alphabetically in ascending orderas the VIP client asked. The program were able to manage multiple files by creating multiple list of data in the main method and merge them into one list. The data were merged and sorted without duplicates elements because I believe duplicates songs are unneccesarry in a playlist as the VIP client might not want to listen to the same song over and over.
+
 I've decided to have a interaction with the user by asking the user for input because I believe that is the purpose of the playlist, so that the user can manipulate over the playlist by either viewing the list or playing next song or viewing the song history list.
 
 ## Setup
